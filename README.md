@@ -1,6 +1,7 @@
-My name is Phillip, and I am a Software Engineering student.
+My name is Phillip, and I studing a double degree in Mathematics and Computer Science. 
+I have a decent set of skills in C# and Python.
 
-I work in C#, primarily with skills in WPF .NET Framework.
+I work in C#, primarily, with skills in WPF .NET Framework.
 
 ### Major projects
 
