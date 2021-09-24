@@ -6,7 +6,7 @@ I also have a fair amount of experience with Python, having done work as a resea
 
 I am very comfortable with LaTeX, and use it a lot in place of other simpler technologies to constantly better my skills in proper typesetting.
 
-A final recent interest of mine is in mathematical theorem proving assistants. I have gained an interest in the language [Lean](www.leanprover.github.io), which is an increadible language, but also rather complex, and provides an environment to aid in proving propositional hypotheses, which is further aided by the community and their public library of proofs.
+A final recent interest of mine is in mathematical theorem proving assistants. I have gained an interest in the language [Lean](https://leanprover.github.io), which is an increadible language, but also rather complex, and provides an environment to aid in proving propositional hypotheses, which is further aided by the community and their public library of proofs.
 
 <img src="https://github-readme-stats.vercel.app/api?username=timetravelpenguin&count_private=true&&show_icons=true&theme=monokai&icon_color=0da2ff"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timetravelpenguin&theme=monokai&langs_count=10&hide=html,javascript,css,scss,shell,dockerfile,ruby,c,batchfile"/>
