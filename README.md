@@ -1,7 +1,12 @@
-My name is Phillip, and I studing a double degree in Mathematics and Computer Science. 
-I have a decent set of skills in C# and Python.
+My name is Phillip, and I am currently studing a double degree in Mathematics and Computer Science. 
 
-I work in C#, primarily, with skills in WPF .NET Framework and .NET 5. I also have experience with Python, having done work as a research assistant for my University's Mathematics department.
+I have spent several years developing my skills in C#, primarily in WPF .NET Framework and .NET 5. 
+Recently I dove into the world of functional programming, picking up F#, which has opened my mind to a whole new way of thinking and problem-solving.
+I also have a fair amount of experience with Python, having done work as a research assistant for my University's Mathematics department, working on visualising a model of a particular relation between 4x4 matricies.
+
+I am very comfortable with LaTeX, and use it a lot in place of other simpler technologies to constantly better my skills in proper typesetting.
+
+A final recent interest of mine is in mathematical theorem proving assistants. I have gained an interest in the language [Lean](www.leanprover.github.io), which is an increadible language, but also rather complex, and provides an environment to aid in proving propositional hypotheses, which is further aided by the community and their public library of proofs.
 
 <img src="https://github-readme-stats.vercel.app/api?username=timetravelpenguin&count_private=true&&show_icons=true&theme=monokai&icon_color=0da2ff"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timetravelpenguin&theme=monokai&langs_count=10&hide=html,javascript,css,scss,shell,dockerfile,ruby,c,batchfile"/>
