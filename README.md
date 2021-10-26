@@ -10,6 +10,12 @@ I am very comfortable with LaTeX, and use it a lot in place of other simpler tec
 
 A final recent interest of mine is in mathematical theorem proving assistants. I have gained an interest in the language [Lean](https://leanprover.github.io), which is an increadible language, but also rather complex, and provides an environment to aid in proving propositional hypotheses, which is further aided by the community and their public library of proofs.
 
+## Currently learning
+
+1. Haskell
+2. Abstract algebra and how it applies to the function paradigm of programming
+3. Lean math proofing assistant
+
 ## Some Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=timetravelpenguin&count_private=true&&show_icons=true&theme=monokai&icon_color=0da2ff"/>
