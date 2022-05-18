@@ -13,7 +13,7 @@ A final recent interest of mine is in mathematical theorem proving assistants. I
 ## Currently learning
 
 1. Haskell
-2. Abstract algebra and how it applies to the function paradigm of programming
+2. Abstract algebra and how it applies to the functional paradigm of programming
 3. Lean math proofing assistant
 
 ## Some Stats
