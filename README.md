@@ -4,7 +4,7 @@ My name is Phillip, and I am currently studying a double degree in Mathematics a
 
 I have spent several years developing my skills in C#, primarily in WPF .NET Framework and .NET 5. 
 Recently I dove into the world of functional programming, picking up F#, but especially Haskell, which has opened my mind to a whole new way of thinking and problem-solving.
-I also have a fair amount of experience with Python, having done work as a research assistant for my University's Mathematics department, working on visualising a model of a particular relation between 4x4 matricies.
+I also have a fair amount of experience with Python, having done work as a research assistant for my University's Mathematics department, working on visualising a models of higher-order relations between 4x4 vectorspaces.
 
 I am very comfortable with LaTeX, and use it a lot in place of other simpler technologies to constantly better my skills in proper typesetting.
 
