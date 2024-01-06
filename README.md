@@ -28,10 +28,14 @@ A final recent interest of mine is in mathematical theorem-proving assistants. I
 
 [![UniHs Card](https://github-readme-stats.vercel.app/api/pin/?username=TimeTravelPenguin&repo=UniHs&theme=tokyonight)](https://github.com/TimeTravelPenguin/UniHs)
 
-2. I developed the [MupenSharp](https://github.com/TimeTravelPenguin/MupenSharp) C# library, which aims to interface with Mupen64 files. The original goal of this library was to develop something other members of the online SM64 Tool-Assisted Speedrunning community can use and implement into their projects, without needing to continuously reimplement the tools to work with the binary files used by Mupen64.
+2. [BulkAudioExtractTool (BAET)](https://github.com/TimeTravelPenguin/BulkAudioExtractTool) is a commandline tool I have developed to bulk-extract all audio tracks of a video, for all videos in a directory. Written in Python, it provides a nice interface and additional options to suite the specific task.
 
-[![UniHs Card](https://github-readme-stats.vercel.app/api/pin/?username=TimeTravelPenguin&repo=MupenSharp&theme=tokyonight)](https://github.com/TimeTravelPenguin/MupenSharp)
+[![BAET Card](https://github-readme-stats.vercel.app/api/pin/?username=TimeTravelPenguin&repo=BulkAudioExtractTool&theme=tokyonight)](https://github.com/TimeTravelPenguin/BulkAudioExtractTool)
 
-3. I created the repository for the [SM64TASArchive](https://github.com/TimeTravelPenguin/SM64TASArchive) repository, which is an organised record of Super Mario 64 Tool-Assisted Speedruns, in order to preserve the historical accuracy or development and improvements set by the community.
+3. I developed the [MupenSharp](https://github.com/TimeTravelPenguin/MupenSharp) C# library, which aims to interface with Mupen64 files. The original goal of this library was to develop something other members of the online SM64 Tool-Assisted Speedrunning community can use and implement into their projects, without needing to continuously reimplement the tools to work with the binary files used by Mupen64.
 
-[![UniHs Card](https://github-readme-stats.vercel.app/api/pin/?username=TimeTravelPenguin&repo=SM64TASArchive&theme=tokyonight)](https://github.com/TimeTravelPenguin/SM64TASArchive)
+[![MupenSharp Card](https://github-readme-stats.vercel.app/api/pin/?username=TimeTravelPenguin&repo=MupenSharp&theme=tokyonight)](https://github.com/TimeTravelPenguin/MupenSharp)
+
+4. I created the repository for the [SM64TASArchive](https://github.com/TimeTravelPenguin/SM64TASArchive) repository, which is an organised record of Super Mario 64 Tool-Assisted Speedruns, in order to preserve the historical accuracy or development and improvements set by the community.
+
+[![SM64TASArchive Card](https://github-readme-stats.vercel.app/api/pin/?username=TimeTravelPenguin&repo=SM64TASArchive&theme=tokyonight)](https://github.com/TimeTravelPenguin/SM64TASArchive)
