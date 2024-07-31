@@ -20,7 +20,7 @@ A final recent interest of mine is in mathematical theorem-proving assistants. I
 
 <img src="https://github-readme-stats.vercel.app/api?username=timetravelpenguin&count_private=true&&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timetravelpenguin&theme=tokyonight&langs_count=10&hide=html,javascript,css,scss,shell,dockerfile,ruby,c,batchfile"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timetravelpenguin&theme=tokyonight&langs_count=10&hide=html,javascript,css,scss,shell,dockerfile,ruby,c,batchfile,TSQL,Common%20Workflow%20Language"/>
 
 ## Major projects
 
