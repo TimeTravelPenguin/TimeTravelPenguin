@@ -32,17 +32,17 @@ A final recent interest of mine is in mathematical theorem-proving assistants. I
 
 [![Catppuccin Typst](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=typst&theme=catppuccin_mocha)](https://github.com/catppuccin/typst)
 
-2. An application made for my own use case: [UniHs](https://github.com/TimeTravelPenguin/UniHs). Written in Haskell, this command-line application is a remake of a Python script that served the purpose of creating new assessment directories for university courses, based on the current working directory. The primary use case is that the app finds the current course folder in the parent directory tree, looks for the assessments directory, creates a new assessment subdirectory, and copies a template folder into the directory, performing some basic editing of the newly copied file to prefill some key terms in $\LaTeX$ documents. This Haskell version is a mix between a "better version", with more options and tools, and a toy project to better get my hands on the Haskell language.
+2. Years ago, I wrote the [MupenSharp](https://github.com/TimeTravelPenguin/MupenSharp) C# library, which aims to interface with Mupen64 files. I wanted to learn some new things in Rust, so I wrote [m64-movie](https://github.com/TimeTravelPenguin/m64-movie), which is updated to support the current file format. The goal of this project was to learn how to use binary file parsing libraries and to build something with both a functional, typed interface and an interface for working at a lower level.
+
+[![m64Movie Card](https://github-readme-stats.vercel.app/api/pin/?username=TimeTravelPenguin&repo=m64-movie&theme=catppuccin_mocha)](https://github.com/TimeTravelPenguin/m64-movie)
+
+3. An application made for my own use case: [UniHs](https://github.com/TimeTravelPenguin/UniHs). Written in Haskell, this command-line application is a remake of a Python script that served the purpose of creating new assessment directories for university courses, based on the current working directory. The primary use case is that the app finds the current course folder in the parent directory tree, looks for the assessments directory, creates a new assessment subdirectory, and copies a template folder into the directory, performing some basic editing of the newly copied file to prefill some key terms in $\LaTeX$ documents. This Haskell version is a mix between a "better version", with more options and tools, and a toy project to better get my hands on the Haskell language.
 
 [![UniHs Card](https://github-readme-stats.vercel.app/api/pin/?username=TimeTravelPenguin&repo=UniHs&theme=catppuccin_mocha)](https://github.com/TimeTravelPenguin/UniHs)
 
-3. [BulkAudioExtractTool (BAET)](https://github.com/TimeTravelPenguin/BulkAudioExtractTool) is a commandline tool I have developed to bulk-extract all audio tracks of a video, for all videos in a directory. Written in Python, it provides a nice interface and additional options to suit the specific task.
+4. [BulkAudioExtractTool (BAET)](https://github.com/TimeTravelPenguin/BulkAudioExtractTool) is a commandline tool I have developed to bulk-extract all audio tracks of a video, for all videos in a directory. Written in Python, it provides a nice interface and additional options to suit the specific task.
 
 [![BAET Card](https://github-readme-stats.vercel.app/api/pin/?username=TimeTravelPenguin&repo=BulkAudioExtractTool&theme=catppuccin_mocha)](https://github.com/TimeTravelPenguin/BulkAudioExtractTool)
-
-4. I developed the [MupenSharp](https://github.com/TimeTravelPenguin/MupenSharp) C# library, which aims to interface with Mupen64 files. The original goal of this library was to develop something other members of the online SM64 Tool-Assisted Speedrunning community can use and implement into their projects, without needing to continuously reimplement the tools to work with the binary files used by Mupen64.
-
-[![MupenSharp Card](https://github-readme-stats.vercel.app/api/pin/?username=TimeTravelPenguin&repo=MupenSharp&theme=catppuccin_mocha)](https://github.com/TimeTravelPenguin/MupenSharp)
 
 5. I created the repository for the [SM64TASArchive](https://github.com/TimeTravelPenguin/SM64TASArchive) repository, which is an organised record of Super Mario 64 Tool-Assisted Speedruns, to preserve the historical accuracy or development and improvements set by the community.
 
