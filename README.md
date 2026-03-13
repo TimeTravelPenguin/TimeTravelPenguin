@@ -1,12 +1,12 @@
 # Introduction
 
-My name is Phillip, and I am currently studying a double degree in Mathematics and Computer Science. 
+My name is Phillip, and I completed a double Bachelor's degree in Mathematics and Computer Science in 2026.
 
 I have spent several years developing my skills in C#, primarily WPF.
-Recently I dove into the world of functional programming, picking up F#, but especially Haskell, which has opened my mind to a whole new way of thinking and problem-solving by following a functional paradigm.
-I also have a fair amount of experience with Python, having done work as a research assistant for my University's Mathematics department, working on visualising models of higher-order relations between 4x4 vector spaces.
+Recently, I dove into the world of functional programming, picking up F#, but especially Haskell, which has opened my mind to a whole new way of thinking and problem-solving by following a functional paradigm.
+I also have a fair amount of experience with Python, having worked as a research assistant in my University's Mathematics department, visualising models of higher-order relations between 4x4 vector spaces.
 
-I am very comfortable with LaTeX, and use it a lot in place of other simpler technologies to constantly better my skills in proper typesetting.
+I am very comfortable with LaTeX and use it a lot in place of other simpler technologies to constantly better my skills in proper typesetting. In the past few years, I transitioned into using Typst and maintain the official [catppuccin](https://github.com/catppuccin/typst) package.
 
 A final recent interest of mine is in mathematical theorem-proving assistants. I have gained an interest in the language [Lean](https://leanprover.github.io), which is an incredible language, but also rather complex, and provides an environment to aid in proving propositional hypotheses, which is further aided by the community and their public library of proofs.
 
